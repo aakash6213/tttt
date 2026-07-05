@@ -46,6 +46,3 @@ This project uses the following open-source packages:
 - [OpenAI](https://openai.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 
-## Contact
-
-If you want to contact the me, you can reach out at `mahrozmohammed922@gmail.com`.
